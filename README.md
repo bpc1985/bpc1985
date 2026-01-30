@@ -1,4 +1,5 @@
-# Hi there, I'm Hung Ho 👋
+# Hi there, I'm [![Hung Ho](https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=globe&logoColor=white)](https://bpc1985.github.io/)
+ 👋
 
 **Full-Stack Developer** based in Espoo, Finland 🇫🇮
 
@@ -42,7 +43,7 @@ Python • Golang • Java • React Native • Flutter
 ```
 
 ## 🤝 Let's Connect
-
+[![Website](https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=globe&logoColor=white)](https://bpc1985.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hongochung)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hungho2812@gmail.com)
 
