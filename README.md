@@ -1,5 +1,4 @@
-# Hi there, I'm [![Hung Ho](https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=globe&logoColor=white)](https://bpc1985.github.io/)
- 👋
+# Hi there, I'm [![Hung Ho](Hung Ho)](https://bpc1985.github.io/) 👋
 
 **Full-Stack Developer** based in Espoo, Finland 🇫🇮
 
